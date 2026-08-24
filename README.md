@@ -42,3 +42,9 @@
 </p>
 
 <br clear="both">
+
+
+
+
+<img width="380" alt="web-developer" src="https://github.com/user-attachments/assets/c6e4e870-edd3-4975-bda1-834ef5e40770" />
+
